@@ -1,2 +1,2 @@
-# Vibe-Coding-card-
-웹 명함
+# Vibe-Coding
+
